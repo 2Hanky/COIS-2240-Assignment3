@@ -1,6 +1,6 @@
 
 
-Car,| CAR123 | Toyota | Camry | 2003 | AVAILABLE | | Seats: 4
-Motorcycle,| MOTO123 | Toyota | Turbo | 2011 | AVAILABLE | | Sidecar: Yes
-Motorcycle,| MOTO123 | Ducati | Turbo | 2011 | AVAILABLE | | Sidecar: Yes
-Car,| CAR111 | Nissan | Rogue | 2020 | AVAILABLE | | Seats: 5
+
+Car,| AAA111 | Toyota | Corolla | 2019 | AVAILABLE | | Seats: 4
+Car,| BBB222 | Honda | Civic | 2021 | AVAILABLE | | Seats: 4
+Car,| CCC333 | Ford | Foucs | 2024 | AVAILABLE | | Seats: 4
