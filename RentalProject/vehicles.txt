@@ -1,0 +1,5 @@
+
+
+Car,| CAR123 | Toyota | Camry | 2003 | AVAILABLE | | Seats: 4
+Motorcycle,| MOTO123 | Toyota | Turbo | 2011 | AVAILABLE | | Sidecar: Yes
+Motorcycle,| MOTO123 | Ducati | Turbo | 2011 | AVAILABLE | | Sidecar: Yes

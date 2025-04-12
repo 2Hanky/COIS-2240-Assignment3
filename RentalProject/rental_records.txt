@@ -1,0 +1,3 @@
+
+
+RENT | Plate: CAR123 | Customer: Henry | Date: 2025-04-11 | Amount: $200.0
